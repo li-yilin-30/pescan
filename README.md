@@ -11,5 +11,6 @@ test.py 由tkinter实现，只要有python环境即可运行。
 ![image](https://user-images.githubusercontent.com/79775390/161360822-fd5ecf03-1510-4dfc-90ac-930fb074b074.png)
 
 剥离出来使用即可，请在输入框中输入EXE扫描文件的路径（适用于所有linux发行版)，点击mode3运行即可。
+终端运行方式(推荐）如下：
 
 ![image](https://user-images.githubusercontent.com/79775390/161360747-a7a6e99e-e95c-4a37-8eb8-fa0106078f23.png)
