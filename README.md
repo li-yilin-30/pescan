@@ -12,4 +12,4 @@ image-20220402092652666
 
 剥离出来使用即可，请在输入框中输入EXE扫描文件的路径（适用于所有linux发行版)，点击mode3运行即可。
 
-屏幕截图 2022-04-02 091245
+![image](https://user-images.githubusercontent.com/79775390/161360747-a7a6e99e-e95c-4a37-8eb8-fa0106078f23.png)
